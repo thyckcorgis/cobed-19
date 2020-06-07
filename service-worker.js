@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cobed-19/precache-manifest.0a992a3fec015844ea5a59e0a85396c3.js"
+  "/cobed-19/precache-manifest.c6ee84aa916004bac342b0b6b23701c2.js"
 );
 
 self.addEventListener('message', (event) => {
