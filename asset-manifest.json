@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cobed-19/static/css/main.eda02e49.chunk.css",
+    "main.js": "/cobed-19/static/js/main.814c62bd.chunk.js",
+    "main.js.map": "/cobed-19/static/js/main.814c62bd.chunk.js.map",
+    "runtime-main.js": "/cobed-19/static/js/runtime-main.881ab0ef.js",
+    "runtime-main.js.map": "/cobed-19/static/js/runtime-main.881ab0ef.js.map",
+    "static/js/2.3564af4e.chunk.js": "/cobed-19/static/js/2.3564af4e.chunk.js",
+    "static/js/2.3564af4e.chunk.js.map": "/cobed-19/static/js/2.3564af4e.chunk.js.map",
+    "index.html": "/cobed-19/index.html",
+    "precache-manifest.0a992a3fec015844ea5a59e0a85396c3.js": "/cobed-19/precache-manifest.0a992a3fec015844ea5a59e0a85396c3.js",
+    "service-worker.js": "/cobed-19/service-worker.js",
+    "static/css/main.eda02e49.chunk.css.map": "/cobed-19/static/css/main.eda02e49.chunk.css.map",
+    "static/js/2.3564af4e.chunk.js.LICENSE.txt": "/cobed-19/static/js/2.3564af4e.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/cobed-19/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881ab0ef.js",
+    "static/js/2.3564af4e.chunk.js",
+    "static/css/main.eda02e49.chunk.css",
+    "static/js/main.814c62bd.chunk.js"
+  ]
+}
