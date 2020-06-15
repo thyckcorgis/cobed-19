@@ -1,6 +1,6 @@
 # COVID-19 Stats App
 
-[Link to app](https://charlesancheta.github.io/cobed-19)
+[Link to app](https://cbebe.github.io/cobed-19)
 
 This stats app uses React, Chart.js, Material UI, and Mathdroid API
 
