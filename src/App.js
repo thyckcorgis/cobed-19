@@ -1,15 +1,14 @@
-import React from 'react';
+import React from "react";
 
-
-import { Cards, Chart, CountryPicker } from './components';
-import { fetchData } from './api';
-import styles from './App.module.css';
-import cobedImage from './images/image.png';
+import { Cards, Chart, CountryPicker } from "./components";
+import { fetchData } from "./api";
+import styles from "./App.module.css";
+import cobedImage from "./images/image.png";
 
 class App extends React.Component {
   state = {
     data: {},
-    country: '',
+    country: "",
   };
 
   async componentDidMount() {
@@ -19,7 +18,7 @@ class App extends React.Component {
   handleCountryChange = async (country) => {
     const fetchedData = await fetchData(country);
     this.setState({ data: fetchedData, country: country });
-  }
+  };
 
   render() {
     const { data, country } = this.state;
